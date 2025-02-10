@@ -1,0 +1,10 @@
+{
+  "module": {
+    "name": "app_links",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet"
+    ]
+  }
+}

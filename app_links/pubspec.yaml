@@ -24,6 +24,9 @@ flutter:
       android:
         package: com.llfbandit.app_links
         pluginClass: AppLinksPlugin
+      ohos:
+        package: com.fluttercandies.app_links_ohos
+        pluginClass: AppLinksOhosPlugin
       ios:
         pluginClass: AppLinksIosPlugin
       linux:
